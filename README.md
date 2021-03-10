@@ -16,18 +16,12 @@
 ```
 shop
 ├── dist
-├── tasks
 ├── src
-│   ├── pug
-│   ├── fonts
-│   ├── img
-│   ├── libs
-│   ├── js
-│   └── styles
-├── gulpfile.esm.js
+│   ├── css
+│   ├── img 
+│   └── js
 ├── webpack.config.js
 ├── package.json
-├── .browserlistrc
 ├── .babelrc
 └── .gitignore
 ```
